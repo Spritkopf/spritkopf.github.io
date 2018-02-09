@@ -1,2 +1,0 @@
-# spritkopf.github.io
-blog
